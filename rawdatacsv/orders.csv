@@ -1,0 +1,11 @@
+order_id,order_date,ship_date,ship_mode,customer_id,customer_name,segment,country,city,state,region,product_id,category,sub_category,product_name,sales,quantity,discount,profit
+CA-2026-10001,01/05/2026,03/05/2026,Second Class,CUST-001,John Smith,Consumer,USA,New York,New York,East,PROD-001,Furniture,Chairs,Office Chair,250.0,2,0.1,40.0
+CA-2026-10002,02/05/2026,06/05/2026,Standard Class,CUST-002,Alice Brown,Corporate,USA,Los Angeles,California,West,PROD-002,Technology,Phones,iPhone 14,1200.0,1,0.05,300.0
+CA-2026-10003,03/05/2026,05/05/2026,First Class,CUST-003,David Wilson,Home Office,USA,Chicago,Illinois,Central,PROD-003,Office Supplies,Binders,Binder Set,80.0,5,0.2,-10.0
+CA-2026-10004,04/05/2026,07/05/2026,Second Class,CUST-004,Sarah Lee,Consumer,USA,Houston,Texas,Central,PROD-004,Furniture,Tables,Conference Table,650.0,1,0.15,120.0
+CA-2026-10005,05/05/2026,08/05/2026,Standard Class,CUST-005,Michael Scott,Corporate,USA,Phoenix,Arizona,West,PROD-005,Technology,Accessories,Wireless Mouse,45.0,3,0.1,12.0
+CA-2026-10006,06/05/2026,10/05/2026,Standard Class,CUST-006,Pam Beesly,Consumer,USA,Philadelphia,Pennsylvania,East,PROD-006,Office Supplies,Paper,A4 Paper Pack,25.0,10,0.0,8.0
+CA-2026-10007,07/05/2026,09/05/2026,First Class,CUST-007,Jim Halpert,Corporate,USA,San Diego,California,West,PROD-007,Furniture,Bookcases,Wooden Bookcase,300.0,1,0.25,-20.0
+CA-2026-10008,08/05/2026,12/05/2026,Second Class,CUST-008,Dwight Schrute,Home Office,USA,Dallas,Texas,Central,PROD-008,Technology,Laptops,MacBook Pro,2200.0,1,0.1,400.0
+CA-2026-10009,09/05/2026,11/05/2026,Standard Class,CUST-009,Angela Martin,Consumer,USA,San Francisco,California,West,PROD-009,Office Supplies,Storage,Storage Box,150.0,4,0.3,-15.0
+CA-2026-10010,10/05/2026,13/05/2026,Second Class,CUST-010,Kevin Malone,Corporate,USA,Boston,Massachusetts,East,PROD-010,Furniture,Furnishings,Desk Lamp,90.0,2,0.05,25.0
